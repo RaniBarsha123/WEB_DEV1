@@ -1,0 +1,76 @@
+.nav{
+    background-color: black;
+    text-align: center;
+    padding: 30px ;
+}
+.nav>a{
+    background-color: orangered;
+        color:white;
+        border-radius: 5px;
+        text-decoration: none;
+        padding: 5px;
+        margin: 5px;
+        
+        
+   
+}
+.nav>a:hover
+{
+    padding: 10px;
+}
+.btn
+{
+    background-color:blue;
+    color: aliceblue;
+    padding: 5px;
+    float:right;
+}
+.btn:hover
+{
+    padding: 10px;
+}
+.img1
+{
+    background-color: blue;
+    border-radius: 100px;
+    float: left;
+    height: 40px ;
+    width: 40px ;
+}
+.side
+{
+            background-color: black;
+            width: 150px;
+            height: 390px;
+            text-align: center;
+            float: left;
+}
+.side>img
+{
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+   
+}
+ .side>a
+{
+    padding-top: 60px;
+    display: grid;
+    
+
+} 
+.foot
+{
+    background-color: black;
+    color: orangered;
+    text-align: center;
+}
+.foot a:hover
+{
+    color: white;
+}
+.sec
+{
+    height: 350px;
+    
+}
